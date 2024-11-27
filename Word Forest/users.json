@@ -1,0 +1,10 @@
+{
+    "123": {
+        "password": "123",
+        "total_score": 0,
+        "correct_count": 0,
+        "wrong_count": 0,
+        "study_days": 2,
+        "wrong_words": []
+    }
+}
